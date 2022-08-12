@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\2022\github\leetcode\1282.用户分组\test.cpp(17,27): warning C4018: “<”: 有符号/无符号不匹配
+  1282.用户分组.vcxproj -> D:\2022\github\leetcode\1282.用户分组\Debug\1282.用户分组.exe
