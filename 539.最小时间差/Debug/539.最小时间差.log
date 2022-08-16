@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\2022\github\leetcode\539.最小时间差\test.cpp(29,27): warning C4018: “<”: 有符号/无符号不匹配
+  539.最小时间差.vcxproj -> D:\2022\github\leetcode\539.最小时间差\Debug\539.最小时间差.exe
