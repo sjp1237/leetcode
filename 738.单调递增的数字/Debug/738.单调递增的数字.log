@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\2022\github\leetcode\738.单调递增的数字\test.cpp(27,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\2022\github\leetcode\738.单调递增的数字\test.cpp(34,26): warning C4018: “<”: 有符号/无符号不匹配
+  738.单调递增的数字.vcxproj -> D:\2022\github\leetcode\738.单调递增的数字\Debug\738.单调递增的数字.exe
