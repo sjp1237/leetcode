@@ -1,0 +1,6 @@
+﻿  test.cpp
+D:\2022\github\leetcode\leetcode 1 两数之和\test.cpp(14,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\2022\github\leetcode\leetcode 1 两数之和\test.cpp(15,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\2022\github\leetcode\leetcode 1 两数之和\test.cpp(32,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\2022\github\leetcode\leetcode 1 两数之和\test.cpp(36,27): warning C4018: “<”: 有符号/无符号不匹配
+  leetcode 1 两数之和.vcxproj -> D:\2022\github\leetcode\leetcode 1 两数之和\Debug\leetcode 1 两数之和.exe
