@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\2022\github\leetcode\leetcode947 移除最多同行或同列的石头\test.cpp(22,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\2022\github\leetcode\leetcode947 移除最多同行或同列的石头\test.cpp(23,35): warning C4018: “<”: 有符号/无符号不匹配
+  leetcode947 移除最多同行或同列的石头.vcxproj -> D:\2022\github\leetcode\leetcode947 移除最多同行或同列的石头\Debug\leetcode947 移除最多同行或同列的石头.exe
