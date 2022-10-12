@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\2022\github\leetcode\string\string.hpp(39,20): warning C4018: “>”: 有符号/无符号不匹配
+D:\2022\github\leetcode\string\string.hpp(49,16): warning C4018: “>”: 有符号/无符号不匹配
+  string.vcxproj -> D:\2022\github\leetcode\string\Debug\string.exe
